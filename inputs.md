@@ -17,3 +17,5 @@
 | 08 | 10.06. | Professionalisation |
 | 09 | 17.06. | TBD |
 | 10 | 24.06. | Presentation |
+
+Inputs are partly overlapping with the course [Das große Kennenlernen](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/schedule.md).
