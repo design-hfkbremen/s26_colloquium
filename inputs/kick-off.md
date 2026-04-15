@@ -12,6 +12,9 @@
        - (necessary to let me know if you’re not coming)
        - Presentation on 25.06., documentation by 09.06.
      - [Stammtisch](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/stammtisch.md)
+     - Teams, CampusOffice
+  3. How to graduate [5min]
+     - Registration, Graduation Times
   
 </details>
 
