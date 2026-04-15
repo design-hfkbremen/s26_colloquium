@@ -11,8 +11,8 @@ We’ll do consultations in groups of 3, every other week.
 ## Date & Time
 ### Times
 
-- WED | 10–11:00 | Input
-- WED | 12–17:30 | Consultations / Co-Working
+- WED | 10–11:00 | [Input](https://github.com/design-hfkbremen/s26_colloquium/blob/main/inputs.md)
+- WED | 12–17:30 | [Group Consultations](https://hfkbremen.sharepoint.com/:x:/s/Kolloquium/IQAvTRkyV4WVRI-SUFFS1TIYARAzH5Df8JRQHQzfUExo_pw?e=TM37PD) / Co-Working
 - THU | 17–19:00 | Stammtisch (optional) 
 
 ### Dates
@@ -30,7 +30,7 @@ We’ll do consultations in groups of 3, every other week.
 - 24.06.
 
 ## Links
-- [Course Schedule]()
+- [Input Schedule](https://github.com/design-hfkbremen/s26_colloquium/blob/main/inputs.md)
 - [Group Consultations](https://hfkbremen.sharepoint.com/:x:/s/Kolloquium/IQAvTRkyV4WVRI-SUFFS1TIYARAzH5Df8JRQHQzfUExo_pw?e=TM37PD)
 - [Sprechstunde](https://calendar.app.google/BSRip2GGMKy5S4zT8)
 - [Stammtisch](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/stammtisch.md)
