@@ -8,7 +8,7 @@
 - [HBK x HfK Exchange](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/hbk_hfk-exchange.md) [11.–13.05.]
 - Antrittsvorlesung [13.05.]
 
-## Morphological Analysis Exercise [30min]
+## Morphological Box [30min]
 What possible ideas, variations or parameters are you considering in your project?
 Let’s try them out with quick sketches and a systematic aproach: 
 
