@@ -3,7 +3,7 @@
 ## Intro [10–10:30]
 - [Consultations](https://hfkbremen.sharepoint.com/:x:/s/Kolloquium/IQAvTRkyV4WVRI-SUFFS1TIYAUYqaiM0VPGRAoDZh2jiFYA?e=sEQtrI)
 - [Time & date changes](https://hfkbremen.sharepoint.com/:x:/s/Kolloquium/IQAvTRkyV4WVRI-SUFFS1TIYAUYqaiM0VPGRAoDZh2jiFYA?e=pty1Cl)
-- [Interims / Final presentation](https://github.com/design-hfkbremen/s26_colloquium/blob/main/inputs.md)
+- [Interims / Final presentation](https://github.com/design-hfkbremen/s26_colloquium/blob/main/inputs.md) [27.05. / 24.06.]
 - [Lists (Artist- / Keylist)](https://hfkbremen.sharepoint.com/:x:/s/Kolloquium/IQCkh_23VsKDTJLlSzNSsV7nAb03-5PNS2bJmajcp-Ha5M0?e=uvFNAE)
 - [HBK x HfK Exchange](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/hbk_hfk-exchange.md) [11.–13.05.]
 - Antrittsvorlesung [13.05.]
