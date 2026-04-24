@@ -12,10 +12,10 @@
 | 03 | 29.04. | Facilitating |
 | 04 | 06.04. | Coaching |
 | 05 | 20.05. | Presenting |
-| 06 | 27.05. | **ZWISCHEN PRÄSENTATION** [10–12:00] |
+| 06 | 27.05. | **ZWISCHEN PRÄSENTATION** <br> _- 10–12:00 / 1 slide / 3min pP_ |
 | 07 | 03.06. | Exhibiting |
 | 08 | ~~10.06.~~ FR 05.06. | Freelancing |
-| 09 | ~~17.06.~~ FR 17.06. | Bio-Writing |
-| 10 | 24.06. | **FINAL PRESENTATION** [10–16:00] |
+| 09 | ~~17.06.~~ FR 19.06. | Bio-Writing |
+| 10 | 24.06. | **FINAL PRESENTATION** <br> _- 10–16:00 / multiple slides / 5min pP <br> - 5min feedback (spoken / written)_ |
 
 Inputs are partly overlapping with the course [Das große Kennenlernen](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/schedule.md).
