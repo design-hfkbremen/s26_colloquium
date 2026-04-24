@@ -1,6 +1,6 @@
 # Variations
 
-## Intro [10–10:30]
+## Admin [10–10:30]
 - [Consultations](https://hfkbremen.sharepoint.com/:x:/s/Kolloquium/IQAvTRkyV4WVRI-SUFFS1TIYAUYqaiM0VPGRAoDZh2jiFYA?e=sEQtrI)
 - [Time & date changes](https://hfkbremen.sharepoint.com/:x:/s/Kolloquium/IQAvTRkyV4WVRI-SUFFS1TIYAUYqaiM0VPGRAoDZh2jiFYA?e=pty1Cl)
 - [Interims / Final presentation](https://github.com/design-hfkbremen/s26_colloquium/blob/main/inputs.md) [27.05. / 24.06.]
@@ -25,5 +25,8 @@ Let’s try them out with quick sketches and a systematic aproach:
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/2704650d-43ad-4b57-a077-7eac3dca5533" />
 
 ### References: 
-- [https://youtu.be/ijsQgOUt9s8?si=GC8eFwTeU1CD1l_E&t=343](https://youtu.be/ijsQgOUt9s8?si=GC8eFwTeU1CD1l_E&t=343)
-- [https://greyb.com/blog/morphological-analysis/](https://greyb.com/blog/morphological-analysis/)
+- [Youtube Video](https://youtu.be/ijsQgOUt9s8?si=GC8eFwTeU1CD1l_E&t=343)
+- [Morphological Analysis](https://greyb.com/blog/morphological-analysis/)
+- [Zwicky’s _Morphological Box_ in Karl Gerstner’s _Designing Programs_](https://haraldgeisler.com/2020/06/20/designing-programmes-karl-gerstner/)
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/ce31fa84-c170-4564-9ff1-c023651e1963" />
