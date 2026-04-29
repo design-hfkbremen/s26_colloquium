@@ -10,7 +10,7 @@
 | 01 | 15.04. | Kick-Off |
 | 02 | 22.04. | Feedbacking |
 | 03 | 29.04. | Variations |
-| 04 | 06.04. | Wissenschafts-Kommunikation |
+| 04 | 06.04. | Scientific visual communication (Input w/ Rosie & Sive) |
 | 05 | 20.05. | Presenting |
 | 06 | 27.05. | **ZWISCHEN PRÄSENTATION** <br> _- 10–12:00 / 1 slide / 3min pP_ |
 | 07 | 03.06. | Exhibiting |
