@@ -1,10 +1,21 @@
 # Presenting
 
-How to present your work?
+> 27.05. | 10:00–12:00 | [ZWISCHEN-PRÄSI]  
+> Check schedule changes | [CONSULTATIONS](https://hfkbremen.sharepoint.com/:x:/s/Kolloquium/IQAvTRkyV4WVRI-SUFFS1TIYAUYqaiM0VPGRAoDZh2jiFYA?e=zw8Fdt)
+
+How to exhibit / show / present your work?
+
+## Exhibitions
+
+- [Karel Martens – Stedlijk Museum](https://www.stedelijk.nl/nl/tentoonstellingen/karel-martens)
+- [A–Z Graphic Design Exhibitions](https://www.instagram.com/a.to.z.presents/)
+- [Junge Grafik Schweiz – Museum für Gestaltung Zürich](https://www.instagram.com/museumgestaltung/p/DRRcFWogTjB/?img_index=1)
+- [Junge Grafik Schweiz – Video](https://www.youtube.com/watch?v=t75BvKr7W7A)
+- [Together Online Exhibition](https://www.instagram.com/katharinanejdl/p/CgAMbqnMuM6/)
+- [Reading Room / Issue Zero](https://www.instagram.com/katharinanejdl/p/CHFifpwhyZB/)
 
 ## Schönste Deutsche Bücher
-How are books exhibited? 
-We’ll visit the _Schau der Schönsten Deutschen Bücher_ in the library and take a closer look.
+How are books exhibited? We’ll visit the [_Schau der Schönsten Deutschen Bücher_](https://www.hfk-bremen.de/de/veranstaltungen/schau-der-schoensten-deutschen-buecher-2025/17063) in the library and take a closer look.
 
 ### Typometer
 You can use a typometer to analyze book design in detail:
