@@ -4,9 +4,9 @@
 > [**Zwischen-Präsi**](https://hfkbremen.sharepoint.com/:f:/s/Kolloquium/IgA-ZHyjuM3MSJQJQg1RzWXKAVsfJKs0Z1qTS1_gRLTMK9Q?e=ClZ2Ba) | 27.05. | 10:00–12:00  
 > **Upcoming Dates** | Check schedule changes  
 
-How to exhibit / show / present your work?
-
 ## Exhibitions
+
+How to exhibit / show / present your work?
 
 - [Karel Martens – Stedlijk Museum](https://www.stedelijk.nl/nl/tentoonstellingen/karel-martens)
 - [A–Z Graphic Design Exhibitions](https://www.instagram.com/a.to.z.presents/)
