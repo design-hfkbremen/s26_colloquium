@@ -1,7 +1,8 @@
 # Presenting
 
-> 27.05. | 10:00–12:00 | [ZWISCHEN-PRÄSI]  
-> Check schedule changes | [CONSULTATIONS](https://hfkbremen.sharepoint.com/:x:/s/Kolloquium/IQAvTRkyV4WVRI-SUFFS1TIYAUYqaiM0VPGRAoDZh2jiFYA?e=zw8Fdt)
+> [**Consultations**](https://hfkbremen.sharepoint.com/:x:/s/Kolloquium/IQAvTRkyV4WVRI-SUFFS1TIYAUYqaiM0VPGRAoDZh2jiFYA?e=zw8Fdt) | Today until 17:15?  
+> [**Zwischen-Präsi**](https://hfkbremen.sharepoint.com/:f:/s/Kolloquium/IgA-ZHyjuM3MSJQJQg1RzWXKAVsfJKs0Z1qTS1_gRLTMK9Q?e=ClZ2Ba) | 27.05. | 10:00–12:00  
+> **Upcoming Dates** | Check schedule changes  
 
 How to exhibit / show / present your work?
 
